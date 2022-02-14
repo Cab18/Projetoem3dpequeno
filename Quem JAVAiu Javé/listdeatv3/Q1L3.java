@@ -14,7 +14,7 @@ public class Q1L3 {
             System.out.println("Digite a idade");
             idade = ler.nextInt();
             int soma = idade + idade;
-            System.out.println(idade);
+            System.out.println(soma);
 
         }
 
